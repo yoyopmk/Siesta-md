@@ -4504,59 +4504,59 @@ Here's the list of my Commands.
 
  *━━━━〈 👾Core👾 〉━━━━*
 
-🧧 profile, help, delete, listgc, listpc, welcome, support, repo, script 
+🔹 profile, help, delete, listgc, listpc, welcome, support, repo, script 
  
  *━━━━〈 🎋Owner🎋 〉━━━━*
 
-🧧 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
+🔹 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
  *━━━━〈 🎐Group🎐 〉━━━━*
 
-🧧 promote, demote, revoke, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
+🔹 promote, demote, revoke, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
 
- *━━━━〈 🖇️Anti Link🖇️ 〉━━━━*
+ *━━━〈 🖇️Anti Link🖇️ 〉━━━*
  
-🧧 antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame
+🔹 antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame
 
- *━━━━〈 🔎Search🔎 〉━━━━*
+ *━━〈 🔎Search🔎 〉━━*
 
-🧧 play, song, yts, lyrics, google, playstore, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone   
+🔹 play, song, yts, lyrics, google, playstore, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone   
 
- *━━━━〈 🧣Convert🧣 〉━━━━*
+ *━━〈 🧣Convert🧣 〉━━*
 
-🧧 sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
+🔹 sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
 
  *━━━━〈 ♻️Audio♻️️ 〉━━━━*
 
-🧧 bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
+🔹 bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
 
- *━━━━〈 〽️Reactions〽️ 〉━━━━*
+ *━━〈 〽️Reactions〽️ 〉━━*
 
-🧧 bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
+🔹 bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
 
- *━━━〈 ⏬Downloader⏬️ 〉━━━*
+ *━━〈 ⏬Downloader⏬️ 〉━━*
 
-🧧 play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
+🔹 play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
 
  *━━━━〈 🎴Weeb🎴️ 〉━━━━*
 
-🧧 waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
+🔹 waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
 
- *━━━━〈 🎫Informative🎫 〉━━━━*
+ *━━〈 🎫Informative🎫 〉━━*
 
-🧧 animequote, quote, covid, earthquake, wiki
+🔹 animequote, quote, covid, earthquake, wiki
 
- *━━━━〈 🧨Others🧨 〉━━━━*
+ *━━〈 🧨Others🧨 〉━━*
 
-🧧 stickermeme, quotes, darkjoke 
+🔹 stickermeme, quotes, darkjoke 
 
  *━━━━〈 📚Fun📚 〉━━━━*
 
-🧧 truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
+🔹 truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
 
- *━━━━〈 🍁Essentials🍁️ 〉━━━━*
+ *━━〈 🍁Essentials🍁️ 〉━━*
 
-🧧 translate, fliptext, toletter
+🔹 translate, fliptext, toletter
 
  *━━━━〈 🍒NSFW️🍒 〉━━━━*
 
