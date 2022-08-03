@@ -87,8 +87,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Chey-san/Marin-Kitagawa-MD-Bot
-cd  Marin-Kitagawa-MD-Bot
+git clone https://github.com/Toshi-san001/Siesta-md
+cd  Siesta-md 
 npm start
 ```
 
