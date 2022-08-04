@@ -4492,19 +4492,18 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
- const helpmenu = `💫Konichiwa *${pushname}* Senpai❣️,
+ const helpmenu = `👋🏻 Konichiwa (🤍ω🤍) *${pushname}* Darling I Am Siesta!
 
-I am *𝑀𝒶𝓇𝒾𝓃 ⋊ ᴋɪᴛᴀɢᴀᴡᴀ*, a bot developed by ᥴꫝꫀꪗ-𝙎𝙖𝙣.
+🔹 My prefix is:  ${prefix}
 
-🎲 My prefix is:  ${prefix}
-
-Here's the list of my Commands.
+⭐COMMAND LIST⭐
  
 
 
  *━━━━〈 👾Core👾 〉━━━━*
 
-🔹 profile, help, delete, listgc, listpc, welcome, support, repo, script 
+🔹 profile
+ help, delete, listgc, listpc, welcome, support, repo, script 
  
  *━━━━〈 🎋Owner🎋 〉━━━━*
 
@@ -4570,7 +4569,7 @@ Here's the list of my Commands.
 
  『  *${global.BotName}*  』
  Powered by: *FanTox*
- Designed by: *ᥴꫝꫀꪗ*
+ Modified and designed by: *Toshi*
  ⭕ To use any of these commands type 
  " *${prefix}<Command name>* ".
  
