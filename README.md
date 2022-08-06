@@ -120,5 +120,5 @@ npm start
 
 -   `Adiwajshing` sir for [Baileys](https://github.com/adiwajshing/baileys).
 -   `Arus~Bots` team for [Mizuhara](https://github.com/Arus-Bots/Mizuhara).
--   `Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2).
+-   `Toshi` for [Siesta](https://github.com/Toshi-san001/Siesta-md).
 -   `FantoX001` bruh for [Miku-MD](https://github.com/FantoX001/Miku-MD).
