@@ -1,9 +1,9 @@
 <h1 align="center"> 💫 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝔖𝓮𝓷𝓹𝓪𝓲✨ ❣️
 <div align="center">
-<a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
+<a href="https://github.com/Toshi-san001/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
 " alt="chitoge" border="0"></a>
 
-💫**Marin: A WhatsApp BOT🖤💖 WITH RICH✨ ANIME & NSFW🔞FEATURES BASED ON <a href="https://github.com/FantoX001/Miku-MD">MIKU</er></a></h1>**
+💫**Marin: A WhatsApp BOT WITH ANIME & NSFW🔞FEATURES BASED ON <a href="https://github.com/FantoX001/Miku-MD">MIKU</er></a></h1>**
 
 
 
@@ -32,13 +32,13 @@
 #### ✧ Click this scan button below and scan the given QR within 10 seconds from your WhatsApp. 
 <a href="https://shikimoriqr.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
 </a>
-#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/Chey-san/Marin-Kitagawa-MD-Bot).
+#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/Toshi-san001/Siesta-md).
 
-#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Marin-Kitagawa-MD-Bot`)
+#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Siesta-md`)
 
 #### ✧ Next
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Toshi-san001/Siesta-md)
 
 
 ## Heroku Deployment Method 2:
@@ -96,7 +96,7 @@ npm start
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
 - And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/Chey-san/#follow) me on GitHub to show some appreciation.
+- Please at least [`Follow`](https://github.com/Toshi-san001/#follow) me on GitHub to show some appreciation.
    
    
 ## Reminder:
@@ -112,7 +112,7 @@ npm start
 
 
 ## Help:
-- [`Follow`](https://github.com/Chey-san/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/Toshi-san001/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
